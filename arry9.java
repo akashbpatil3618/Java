@@ -1,3 +1,4 @@
+//Array shift left side
 public class arry9
 {
 	public static void main(String [] args)
